@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ssh4Annotation"
+  id="myeclipse.1442626022787"
+  context-root="/ssh4Annotation"
+  j2ee-spec="5.0"
+  archive="ssh4Annotation.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
